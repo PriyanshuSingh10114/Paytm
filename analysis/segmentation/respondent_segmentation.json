@@ -1,0 +1,295 @@
+{
+  "profile_distribution": [
+    {
+      "profile": "College student",
+      "count": 71,
+      "percentage": 62.83
+    },
+    {
+      "profile": "Working professional",
+      "count": 23,
+      "percentage": 20.35
+    },
+    {
+      "profile": "Other",
+      "count": 10,
+      "percentage": 8.85
+    },
+    {
+      "profile": "Self-employed / freelancer",
+      "count": 9,
+      "percentage": 7.96
+    }
+  ],
+  "state_distribution": [
+    {
+      "state": "Uttar Pradesh",
+      "count": 81,
+      "percentage": 71.68
+    },
+    {
+      "state": "Madhya Pradesh",
+      "count": 12,
+      "percentage": 10.62
+    },
+    {
+      "state": "Other",
+      "count": 6,
+      "percentage": 5.31
+    },
+    {
+      "state": "Haryana",
+      "count": 3,
+      "percentage": 2.65
+    },
+    {
+      "state": "Karnataka",
+      "count": 2,
+      "percentage": 1.77
+    },
+    {
+      "state": "Delhi (NCR)",
+      "count": 2,
+      "percentage": 1.77
+    },
+    {
+      "state": "Uttarakhand",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "state": "Himachal Pradesh",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "state": "Gujarat",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "state": "Odisha",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "state": "Maharashtra",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "state": "Rajasthan",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "state": "Jharkhand",
+      "count": 1,
+      "percentage": 0.88
+    }
+  ],
+  "city_distribution": [
+    {
+      "city": "Sitapur",
+      "count": 39,
+      "percentage": 34.51
+    },
+    {
+      "city": "Bhopal",
+      "count": 9,
+      "percentage": 7.96
+    },
+    {
+      "city": "Lucknow",
+      "count": 8,
+      "percentage": 7.08
+    },
+    {
+      "city": "Lakhimpur Kheri",
+      "count": 8,
+      "percentage": 7.08
+    },
+    {
+      "city": "Ballia",
+      "count": 4,
+      "percentage": 3.54
+    },
+    {
+      "city": "Shahjahanpur",
+      "count": 3,
+      "percentage": 2.65
+    },
+    {
+      "city": "Biswan",
+      "count": 3,
+      "percentage": 2.65
+    },
+    {
+      "city": "Hardoi",
+      "count": 3,
+      "percentage": 2.65
+    },
+    {
+      "city": "Uttar Pradesh (General)",
+      "count": 2,
+      "percentage": 1.77
+    },
+    {
+      "city": "Sehore",
+      "count": 2,
+      "percentage": 1.77
+    },
+    {
+      "city": "Bengaluru",
+      "count": 2,
+      "percentage": 1.77
+    },
+    {
+      "city": "Agra",
+      "count": 2,
+      "percentage": 1.77
+    },
+    {
+      "city": "Delhi (NCR)",
+      "count": 2,
+      "percentage": 1.77
+    },
+    {
+      "city": "Lakhimpur khiri",
+      "count": 2,
+      "percentage": 1.77
+    },
+    {
+      "city": "Noida",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Dehradun",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Panipat",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Shimla",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Surat",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Gurgaon",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Babhnan",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Mathura",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Hamirpur",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Bhubaneswar",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Pune",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Rajasthan (General)",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "BHOPAL",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "gurugram",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Karnal",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Kotwara",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Prayagraj",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Sangali Maharashtra",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Akbarpur",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Riga , Latvia",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Laharpur",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Gaura",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Indore",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "city": "Jamshedpur",
+      "count": 1,
+      "percentage": 0.88
+    }
+  ],
+  "settlement_distribution": [
+    {
+      "settlement": "Tier-3 Towns, Semi-Urban & Rural Heartland",
+      "count": 82,
+      "percentage": 72.57
+    },
+    {
+      "settlement": "Urban Metros & State Capitals",
+      "count": 31,
+      "percentage": 27.43
+    }
+  ]
+}

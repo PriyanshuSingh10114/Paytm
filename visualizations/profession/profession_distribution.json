@@ -1,0 +1,22 @@
+[
+  {
+    "profession":"College student",
+    "count":71,
+    "percentage":62.83
+  },
+  {
+    "profession":"Working professional",
+    "count":23,
+    "percentage":20.35
+  },
+  {
+    "profession":"Other",
+    "count":10,
+    "percentage":8.85
+  },
+  {
+    "profession":"Self-employed \/ freelancer",
+    "count":9,
+    "percentage":7.96
+  }
+]

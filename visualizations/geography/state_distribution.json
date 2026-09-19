@@ -1,0 +1,67 @@
+[
+  {
+    "state":"Uttar Pradesh",
+    "count":81,
+    "percentage":71.68
+  },
+  {
+    "state":"Madhya Pradesh",
+    "count":12,
+    "percentage":10.62
+  },
+  {
+    "state":"Other",
+    "count":6,
+    "percentage":5.31
+  },
+  {
+    "state":"Haryana",
+    "count":3,
+    "percentage":2.65
+  },
+  {
+    "state":"Karnataka",
+    "count":2,
+    "percentage":1.77
+  },
+  {
+    "state":"Delhi (NCR)",
+    "count":2,
+    "percentage":1.77
+  },
+  {
+    "state":"Uttarakhand",
+    "count":1,
+    "percentage":0.88
+  },
+  {
+    "state":"Himachal Pradesh",
+    "count":1,
+    "percentage":0.88
+  },
+  {
+    "state":"Gujarat",
+    "count":1,
+    "percentage":0.88
+  },
+  {
+    "state":"Odisha",
+    "count":1,
+    "percentage":0.88
+  },
+  {
+    "state":"Maharashtra",
+    "count":1,
+    "percentage":0.88
+  },
+  {
+    "state":"Rajasthan",
+    "count":1,
+    "percentage":0.88
+  },
+  {
+    "state":"Jharkhand",
+    "count":1,
+    "percentage":0.88
+  }
+]

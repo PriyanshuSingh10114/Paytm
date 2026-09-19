@@ -1,0 +1,45 @@
+{
+  "high_frequency_base": {
+    "count": 46,
+    "percentage": 40.71,
+    "description": "≥16 transactions/week (65–130+ monthly txns)"
+  },
+  "categories": [
+    {
+      "tier": "A. High Value + High Frequency",
+      "occasions": [
+        "Local Retail Shopping",
+        "Dining & Restaurants",
+        "Online E-Commerce"
+      ],
+      "ticket_range": "₹500 – ₹3,000",
+      "monthly_velocity": "15–30 txns/month",
+      "gmv_share_index": "High",
+      "paytm_opportunity": "Primary counter-scan checkout switch"
+    },
+    {
+      "tier": "B. High Value + Low Frequency",
+      "occasions": [
+        "College / Education Fees",
+        "House Rent",
+        "Major Utilities"
+      ],
+      "ticket_range": "₹2,000 – ₹50,000",
+      "monthly_velocity": "1–3 txns/month",
+      "gmv_share_index": "High (Lumpy)",
+      "paytm_opportunity": "Fee payment schedules & smart reminders"
+    },
+    {
+      "tier": "C. Medium/Low Value + High Frequency (The Habit Anchor)",
+      "occasions": [
+        "Campus Canteens / Tea Stalls",
+        "Daily Groceries / Kirana",
+        "Auto / Transit Commute"
+      ],
+      "ticket_range": "₹20 – ₹250",
+      "monthly_velocity": "30–60 txns/month",
+      "gmv_share_index": "Massive Volume / Habit Driver",
+      "paytm_opportunity": "Sub-500ms lockscreen FastScan + Soundbox split"
+    }
+  ]
+}

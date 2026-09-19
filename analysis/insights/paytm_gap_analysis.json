@@ -1,0 +1,8 @@
+{
+  "current_behaviour": "User stands at a canteen, kirana, or tea stall counter with a Paytm Soundbox installed.",
+  "user_need": "Complete payment in <3 seconds without app lag, visual distraction, or complex navigation.",
+  "existing_barrier": "36.9% cite 'I automatically use another app' (muscle memory); 24.3% cite 'Another app feels faster/easier' (perceived tap-latency).",
+  "why_rival_wins": "Google Pay and PhonePe present simplified single-purpose home screens with direct camera focus.",
+  "paytm_gap": "Paytm's multi-vertical super-app interface causes cognitive micro-hesitation at crowded counters, causing 57.5% of active Paytm users to reflexively open rival apps for daily micro-transactions.",
+  "strategic_opportunity": "Deploy 'Paytm TurboScan' (OS-level lockscreen widget scanner) + 'Paytm SplitPass' (1-tap Soundbox group bill splitting) to capture counter checkout velocity and viral peer loops."
+}

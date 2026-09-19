@@ -1,0 +1,273 @@
+{
+  "primary_app_distribution": [
+    {
+      "app": "Google Pay",
+      "count": 51,
+      "percentage": 45.13
+    },
+    {
+      "app": "PhonePe",
+      "count": 36,
+      "percentage": 31.86
+    },
+    {
+      "app": "Paytm",
+      "count": 17,
+      "percentage": 15.04
+    },
+    {
+      "app": "Super Money",
+      "count": 3,
+      "percentage": 2.65
+    },
+    {
+      "app": "Amazon Pay",
+      "count": 2,
+      "percentage": 1.77
+    },
+    {
+      "app": "Navi",
+      "count": 2,
+      "percentage": 1.77
+    },
+    {
+      "app": "Slice",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "app": "CRED",
+      "count": 1,
+      "percentage": 0.88
+    }
+  ],
+  "paytm_90d_active": {
+    "yes_count": 73,
+    "yes_percentage": 64.6,
+    "no_count": 40,
+    "no_percentage": 35.4
+  },
+  "non_paytm_primary_active_on_paytm": {
+    "total_non_paytm_primary": 96,
+    "active_on_paytm_count": 56,
+    "active_on_paytm_percentage": 58.33
+  },
+  "top_payment_occasions": [
+    {
+      "item": "Shopping",
+      "count": 65,
+      "percentage": 57.52
+    },
+    {
+      "item": "Bills / recharge",
+      "count": 63,
+      "percentage": 55.75
+    },
+    {
+      "item": "Food / cafés / restaurants",
+      "count": 61,
+      "percentage": 53.98
+    },
+    {
+      "item": "Groceries",
+      "count": 50,
+      "percentage": 44.25
+    },
+    {
+      "item": "Friends / family",
+      "count": 46,
+      "percentage": 40.71
+    },
+    {
+      "item": "Travel / auto / cab",
+      "count": 42,
+      "percentage": 37.17
+    },
+    {
+      "item": "Online purchases",
+      "count": 38,
+      "percentage": 33.63
+    },
+    {
+      "item": "College / education",
+      "count": 27,
+      "percentage": 23.89
+    },
+    {
+      "item": "Subscriptions",
+      "count": 16,
+      "percentage": 14.16
+    },
+    {
+      "item": "Rent",
+      "count": 15,
+      "percentage": 13.27
+    },
+    {
+      "item": "Daily use item",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "item": "All of the above",
+      "count": 1,
+      "percentage": 0.88
+    },
+    {
+      "item": "All",
+      "count": 1,
+      "percentage": 0.88
+    }
+  ],
+  "primary_app_selection_reasons": [
+    {
+      "item": "It is faster or easier",
+      "count": 52,
+      "percentage": 46.02
+    },
+    {
+      "item": "It is simply my habit / default",
+      "count": 36,
+      "percentage": 31.86
+    },
+    {
+      "item": "My friends / family use it",
+      "count": 28,
+      "percentage": 24.78
+    },
+    {
+      "item": "I trust it more",
+      "count": 19,
+      "percentage": 16.81
+    },
+    {
+      "item": "Better features / experience",
+      "count": 19,
+      "percentage": 16.81
+    },
+    {
+      "item": "It feels more reliable",
+      "count": 18,
+      "percentage": 15.93
+    },
+    {
+      "item": "Better offers / rewards",
+      "count": 16,
+      "percentage": 14.16
+    },
+    {
+      "item": "Merchants commonly use it",
+      "count": 13,
+      "percentage": 11.5
+    },
+    {
+      "item": "Other",
+      "count": 9,
+      "percentage": 7.96
+    }
+  ],
+  "paytm_occasions": [
+    {
+      "item": "Shopping / online purchases",
+      "count": 53,
+      "percentage": 46.9
+    },
+    {
+      "item": "Bills / recharge",
+      "count": 44,
+      "percentage": 38.94
+    },
+    {
+      "item": "Payments to friends / family",
+      "count": 33,
+      "percentage": 29.2
+    },
+    {
+      "item": "Food / restaurants",
+      "count": 33,
+      "percentage": 29.2
+    },
+    {
+      "item": "Travel / transport",
+      "count": 29,
+      "percentage": 25.66
+    },
+    {
+      "item": "When there is an offer / reward",
+      "count": 20,
+      "percentage": 17.7
+    },
+    {
+      "item": "I cannot think of a recent Paytm use",
+      "count": 20,
+      "percentage": 17.7
+    },
+    {
+      "item": "I use Paytm randomly",
+      "count": 19,
+      "percentage": 16.81
+    },
+    {
+      "item": "with no specific occasion",
+      "count": 19,
+      "percentage": 16.81
+    },
+    {
+      "item": "High-value payments",
+      "count": 15,
+      "percentage": 13.27
+    }
+  ],
+  "paytm_barriers": [
+    {
+      "item": "I automatically use another app",
+      "count": 41,
+      "percentage": 36.28
+    },
+    {
+      "item": "Another app feels faster / easier",
+      "count": 28,
+      "percentage": 24.78
+    },
+    {
+      "item": "My friends / family are on another app",
+      "count": 17,
+      "percentage": 15.04
+    },
+    {
+      "item": "I am not familiar with Paytm features",
+      "count": 17,
+      "percentage": 15.04
+    },
+    {
+      "item": "Paytm does not give me a strong reason to switch",
+      "count": 17,
+      "percentage": 15.04
+    },
+    {
+      "item": "Another app has better offers / rewards",
+      "count": 14,
+      "percentage": 12.39
+    },
+    {
+      "item": "I trust another app more",
+      "count": 14,
+      "percentage": 12.39
+    },
+    {
+      "item": "Nothing — I could use Paytm more",
+      "count": 14,
+      "percentage": 12.39
+    },
+    {
+      "item": "Other",
+      "count": 14,
+      "percentage": 12.39
+    },
+    {
+      "item": "Merchants usually use another app",
+      "count": 9,
+      "percentage": 7.96
+    }
+  ]
+}

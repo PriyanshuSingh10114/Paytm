@@ -1,0 +1,60 @@
+{
+  "dataset_name": "Paytm_VOC_Authoritative_Final_Dataset.csv",
+  "total_rows": 113,
+  "total_columns": 21,
+  "unique_respondents": 113,
+  "duplicate_rows": 0,
+  "missing_values_by_column": {
+    "Respondent_ID": 0,
+    "Timestamp": 0,
+    "1. Which best describes you?": 0,
+    "2. Which city do you currently live in?": 0,
+    "3. Which UPI apps do you currently use?": 0,
+    "4. Which UPI app do you use MOST?": 0,
+    "5. Have you used Paytm UPI in the last 90 days?": 0,
+    "6. Roughly how many UPI payments do you make in a typical week?": 0,
+    "7. Where do you use UPI MOST often?": 0,
+    "8. What is the BIGGEST reason you usually open your primary UPI app?": 0,
+    "9. When are you MOST likely to use Paytm UPI?": 0,
+    "10. What is the BIGGEST reason you do NOT use Paytm for more of your UPI payments?": 0,
+    "11. In ONE sentence: what would make you use Paytm more?": 0,
+    "12. Would you be open to a 15-minute follow-up conversation about your UPI habits?": 0,
+    "Data_Quality_Flag": 0,
+    "TrackA_Eligibility": 0,
+    "City_Standardized": 0,
+    "State_Standardized": 0,
+    "Settlement_Typology": 0,
+    "Primary_App_Clean": 0,
+    "Transaction_Velocity": 0
+  },
+  "data_quality_flags": {
+    "OK": 110,
+    "Missing/placeholder Paytm opportunity": 3
+  },
+  "quality_review_cases": [
+    {
+      "Respondent_ID": "VIRTUS_001",
+      "Timestamp": "2026-09-11 21:47:39.354",
+      "11. In ONE sentence: what would make you use Paytm more?": "na",
+      "Data_Quality_Flag": "Missing/placeholder Paytm opportunity"
+    },
+    {
+      "Respondent_ID": "VIRTUS_009",
+      "Timestamp": "2026-09-11 22:13:39.558",
+      "11. In ONE sentence: what would make you use Paytm more?": "Na",
+      "Data_Quality_Flag": "Missing/placeholder Paytm opportunity"
+    },
+    {
+      "Respondent_ID": "VIRTUS_082",
+      "Timestamp": "2026-09-12 11:34:53.424",
+      "11. In ONE sentence: what would make you use Paytm more?": "Nothing",
+      "Data_Quality_Flag": "Missing/placeholder Paytm opportunity"
+    }
+  ],
+  "audit_summary": {
+    "valid_usable_records": 113,
+    "clean_records": 110,
+    "quality_review_placeholder_verbatims": 3,
+    "action_taken": "All 113 authentic records retained. 3 records with placeholder verbatims ('na', 'No') flagged for review but valid across all other 11 behavioral fields."
+  }
+}

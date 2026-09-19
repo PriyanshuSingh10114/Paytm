@@ -1,0 +1,42 @@
+[
+  {
+    "app":"Google Pay",
+    "count":51,
+    "percentage":45.13
+  },
+  {
+    "app":"PhonePe",
+    "count":36,
+    "percentage":31.86
+  },
+  {
+    "app":"Paytm",
+    "count":17,
+    "percentage":15.04
+  },
+  {
+    "app":"Super Money",
+    "count":3,
+    "percentage":2.65
+  },
+  {
+    "app":"Amazon Pay",
+    "count":2,
+    "percentage":1.77
+  },
+  {
+    "app":"Navi",
+    "count":2,
+    "percentage":1.77
+  },
+  {
+    "app":"Slice",
+    "count":1,
+    "percentage":0.88
+  },
+  {
+    "app":"CRED",
+    "count":1,
+    "percentage":0.88
+  }
+]
