@@ -6,13 +6,18 @@
 
 <br/>
 
-<!-- Hero Badges Row 1: Competition & Track -->
+<!-- Hero Badges Row 1: Author & Organizations -->
+[![Author](https://img.shields.io/badge/Author-Priyanshu_Singh-002970?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriyanshuSingh10114)
+[![Internship](https://img.shields.io/badge/Intern-QuickIntell_%26_TM_Cloud_Solutions-0052CC?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/PriyanshuSingh10114)
+[![Role](https://img.shields.io/badge/Role-Product_Strategy_%26_Business_Analytics_Intern-0D9488?style=for-the-badge&logo=google-analytics&logoColor=white)](https://github.com/PriyanshuSingh10114)
+
+<!-- Hero Badges Row 2: Competition & Track -->
 [![Paytm Innovation Challenge](https://img.shields.io/badge/Challenge-Paytm_Innovation_Challenge_2026-002970?style=for-the-badge&logo=paytm&logoColor=white)](file:///e:/Paytm)
 [![Track A - Consumer UPI](https://img.shields.io/badge/Track_A-Consumer_UPI_Growth-00BAF2?style=for-the-badge&logo=upi&logoColor=white)](file:///e:/Paytm/submission/executive_summary/Paytm_Innovation_Challenge_Executive_Summary.md)
 [![Submission Status](https://img.shields.io/badge/Status-Round_1_Complete-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)](file:///e:/Paytm/submission/executive_summary/Paytm_Innovation_Challenge_2026_VOC_Research_Report.docx)
 [![Audited Census](https://img.shields.io/badge/Audited_Census-N%20%3D%20113_Verified-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white)](file:///e:/Paytm/data/final/Paytm_VOC_Authoritative_Final_Dataset.csv)
 
-<!-- Hero Badges Row 2: Financial Impact & Core Tech -->
+<!-- Hero Badges Row 3: Financial Impact & Core Tech -->
 [![Annual GMV Opportunity](https://img.shields.io/badge/Annual_GMV_Impact-%2B%E2%82%B95%2C246_Cr%2FYr-059669?style=for-the-badge&logo=cashapp&logoColor=white)](file:///e:/Paytm/submission/supporting_evidence/Financial_Business_Impact_Model.md)
 [![D3.js Visualization](https://img.shields.io/badge/Dashboard-D3.js_v7_Interactive-F59E0B?style=for-the-badge&logo=d3.js&logoColor=white)](file:///e:/Paytm/visualizations/final/master_dashboard.html)
 [![Python Analytics](https://img.shields.io/badge/Analytics-Python_3.12_%7C_Pandas-3776AB?style=for-the-badge&logo=python&logoColor=white)](file:///e:/Paytm/analysis/)
@@ -48,6 +53,7 @@
 
 ## 📑 Table of Contents
 
+- [👨‍💻 Author & Project Credits](#-author--project-credits)
 - [🎯 1. Key Performance Indicators & Empirical Dashboard](#-1-key-performance-indicators--empirical-dashboard)
 - [🔬 2. The Core Empirical Discovery: The "Dormant-Default" Paradox](#-2-the-core-empirical-discovery-the-dormant-default-paradox)
 - [🗺️ 3. Multi-Dimensional Sample Footprint & Geographic Diversity](#️-3-multi-dimensional-sample-footprint--geographic-diversity)
@@ -63,18 +69,46 @@
 
 ---
 
+## 👨‍💻 Author & Project Credits
+
+<div align="center">
+
+| Profile Item | Details |
+| :--- | :--- |
+| **Lead Author & Researcher** | **Priyanshu Singh** |
+| **Professional Role** | **Product Strategy & Business Analytics Intern** |
+| **Industry Organizations** | **QuickIntell** & **TM Cloud Solutions** |
+| **Challenge Submission** | **Paytm Innovation Challenge 2026** (Track A: Consumer UPI Growth) |
+| **GitHub Repository** | [`PriyanshuSingh10114/Paytm`](https://github.com/PriyanshuSingh10114/Paytm) |
+| **Core Specialization** | Consumer Insights Analytics, Quantitative Modeling, Empirical VOC Research, D3.js Systems |
+
+</div>
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ 👨‍💻 AUTHOR PROFILE & RESEARCH CREDENTIALS                                                              │
+│                                                                                                        │
+│ • Lead Investigator: Priyanshu Singh                                                                   │
+│ • Roles: Product Strategy & Business Analytics Intern @ QuickIntell & TM Cloud Solutions               │
+│ • Scope: End-to-End Survey Audit, VOC Quantitative Modeling, D3.js Map Architecture, Financial Modeling│
+│ • Research Integrity: 100% Traceable Empirical Analysis (0 Synthetic Data, N=113 Verified Records)    │
+└────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 ## 🎯 1. Key Performance Indicators & Empirical Dashboard
 
 <div align="center">
 
-| Metric Category | Badge / Indicator | Empirical Value | Population % ($N=113$) | Strategic Meaning |
+| Metric Category | Indicator Badge | Empirical Value | Population % ($N=113$) | Strategic Meaning |
 | :--- | :--- | :---: | :---: | :--- |
-| **Total Census** | `![Sample](https://img.shields.io/badge/Census-113_Responses-002970?style=flat-square)` | **113** | **$100.0\%$** | $100\%$ authentic records (`VIRTUS_001` to `VIRTUS_113`) |
-| **Active Base** | `![Active](https://img.shields.io/badge/Paytm_90d_Active-71_Users-0052CC?style=flat-square)` | **71** | **$63.96\%$** | $2$ in $3$ users already have active Paytm UPI bank accounts |
-| **The Growth Reservoir** | `![Opportunity](https://img.shields.io/badge/Dormant_Default_Pool-54_Users-0D9488?style=flat-square)` | **54 / 94** | **$57.45\%$** | Non-Paytm primary users who are active Paytm transactors |
-| **High Velocity Base** | `![Frequency](https://img.shields.io/badge/Velocity_≥16_Txn/Wk-47_Users-059669?style=flat-square)` | **47** | **$41.59\%$** | Heavy users executing $65\text{--}130+$ payments/month |
-| **Campus Youth** | `![Demographic](https://img.shields.io/badge/College_Students-70_Users-7C3AED?style=flat-square)` | **70** | **$61.95\%$** | Key demographic driving daily micro-payments (canteen, tea, kirana) |
-| **Bharat Heartland** | `![Geographic](https://img.shields.io/badge/Tier_3_%26_Rural-73_Users-EA580C?style=flat-square)` | **73** | **$64.60\%$** | Semi-urban & rural heartland footprint beyond top metros |
+| **Total Census** | ![Sample](https://img.shields.io/badge/Census-113_Responses-002970?style=flat-square) | **113** | **$100.0\%$** | $100\%$ authentic records (`VIRTUS_001` to `VIRTUS_113`) |
+| **Active Base** | ![Active](https://img.shields.io/badge/Paytm_90d_Active-71_Users-0052CC?style=flat-square) | **71** | **$63.96\%$** | $2$ in $3$ users already have active Paytm UPI bank accounts |
+| **The Growth Reservoir** | ![Opportunity](https://img.shields.io/badge/Dormant_Default_Pool-54_Users-0D9488?style=flat-square) | **54 / 94** | **$57.45\%$** | Non-Paytm primary users who are active Paytm transactors |
+| **High Velocity Base** | ![Frequency](https://img.shields.io/badge/Velocity_%E2%89%A516_Txn%2FWk-47_Users-059669?style=flat-square) | **47** | **$41.59\%$** | Heavy users executing $65\text{--}130+$ payments/month |
+| **Campus Youth** | ![Demographic](https://img.shields.io/badge/College_Students-70_Users-7C3AED?style=flat-square) | **70** | **$61.95\%$** | Key demographic driving daily micro-payments (canteen, tea, kirana) |
+| **Bharat Heartland** | ![Geographic](https://img.shields.io/badge/Tier_3_%26_Rural-73_Users-EA580C?style=flat-square) | **73** | **$64.60\%$** | Semi-urban & rural heartland footprint beyond top metros |
 
 </div>
 
@@ -428,7 +462,10 @@ python -m http.server 3000
 <div align="center">
 
 ### 🏆 Paytm Innovation Challenge 2026 Submission Dossier
+**Author:** **Priyanshu Singh** • *Product Strategy & Business Analytics Intern @ QuickIntell & TM Cloud Solutions*  
 **Prepared with $100\%$ Empirical Data Traceability • Track A: Consumer UPI Growth**
+
+<br/>
 
 [![Paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=white)](https://paytm.com)
 [![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -437,6 +474,6 @@ python -m http.server 3000
 
 <br/>
 
-<sub>© 2026 Paytm Innovation Challenge Submission Team. All findings derived from audited VOC survey responses ($N=113$).</sub>
+<sub>© 2026 Priyanshu Singh (QuickIntell & TM Cloud Solutions). Developed for the Paytm Innovation Challenge 2026. All findings derived from audited VOC survey responses ($N=113$).</sub>
 
 </div>
