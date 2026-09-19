@@ -1,0 +1,159 @@
+=== VERBATIM THEME DISTRIBUTION ===
+verbatim_theme
+Other / General                                                                              44
+Rewards / Cashback / Offers                                                                  26
+Speed / UI / Simplicity / App Performance                                                    18
+Features / Ecosystem / Habit / Acceptance                                                     9
+No specific request / None / NA                                                               7
+Rewards / Cashback / Offers + Speed / UI / Simplicity / App Performance                       4
+Speed / UI / Simplicity / App Performance + Trust / Reliability / Server Success / Safety     1
+Rewards / Cashback / Offers + Trust / Reliability / Server Success / Safety                   1
+Trust / Reliability / Server Success / Safety                                                 1
+Name: count, dtype: int64
+
+Percentages:
+verbatim_theme
+Other / General                                                                              39.64
+Rewards / Cashback / Offers                                                                  23.42
+Speed / UI / Simplicity / App Performance                                                    16.22
+Features / Ecosystem / Habit / Acceptance                                                     8.11
+No specific request / None / NA                                                               6.31
+Rewards / Cashback / Offers + Speed / UI / Simplicity / App Performance                       3.60
+Speed / UI / Simplicity / App Performance + Trust / Reliability / Server Success / Safety     0.90
+Rewards / Cashback / Offers + Trust / Reliability / Server Success / Safety                   0.90
+Trust / Reliability / Server Success / Safety                                                 0.90
+Name: count, dtype: float64
+
+==================== THEME: Features / Ecosystem / Habit / Acceptance (Count: 9) ====================
+Index 25 | Profile: College student | Primary: Google Pay | Paytm90d: No | Text: "If my friend used it more"
+Index 37 | Profile: Self-employed / freelancer | Primary: Google Pay | Paytm90d: No | Text: "If my friends used it more "
+Index 43 | Profile: Working professional | Primary: PhonePe | Paytm90d: No | Text: "More convenient, user friendly and if paytm attentively responds to the user complaints"
+Index 44 | Profile: College student | Primary: PhonePe | Paytm90d: No | Text: "My friend"
+Index 84 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "All Features "
+Index 90 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "If my friends used it more"
+Index 92 | Profile: Self-employed / freelancer | Primary: Google Pay | Paytm90d: No | Text: "All features "
+Index 94 | Profile: Other | Primary: Google Pay | Paytm90d: No | Text: "All features "
+Index 104 | Profile: Working professional | Primary: CRED | Paytm90d: No | Text: "If their wallet system is back again, as PayTm is widely accepted. "
+
+==================== THEME: No specific request / None / NA (Count: 7) ====================
+Index 1 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "na"
+Index 4 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "I'm not a paytm user
+"
+Index 9 | Profile: Working professional | Primary: Google Pay | Paytm90d: No | Text: "Na"
+Index 26 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "No"
+Index 27 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "No"
+Index 78 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "No"
+Index 82 | Profile: Working professional | Primary: Google Pay | Paytm90d: No | Text: "Nothing"
+
+==================== THEME: Other / General (Count: 44) ====================
+Index 6 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "More cash back 🤑"
+Index 10 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "Easly "
+Index 12 | Profile: Other | Primary: PhonePe | Paytm90d: No | Text: "Tute rupay ka tention nahi"
+Index 14 | Profile: Working professional | Primary: Google Pay | Paytm90d: Yes | Text: "Best option "
+Index 15 | Profile: College student | Primary: Paytm | Paytm90d: Yes | Text: "It is simply my go to app for online UPI payments. "
+Index 23 | Profile: Working professional | Primary: Google Pay | Paytm90d: Yes | Text: "I am not that much aware about this app"
+Index 24 | Profile: College student | Primary: Paytm | Paytm90d: Yes | Text: "Best"
+Index 28 | Profile: Self-employed / freelancer | Primary: Paytm | Paytm90d: Yes | Text: "बेहतरीन विकल्प है कैस का झंझट नहीं है।"
+Index 34 | Profile: College student | Primary: Google Pay | Paytm90d: No | Text: "I'm not use paytm app"
+Index 36 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "idk"
+Index 38 | Profile: College student | Primary: PhonePe | Paytm90d: No | Text: "Credibility "
+Index 40 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "I can use Paytm often, but i Gpay more, maybe because it is easier to use GPay than Paytm"
+Index 45 | Profile: Working professional | Primary: PhonePe | Paytm90d: Yes | Text: "Great "
+Index 47 | Profile: Working professional | Primary: Paytm | Paytm90d: Yes | Text: "I use paytm regularly "
+Index 50 | Profile: College student | Primary: Google Pay | Paytm90d: No | Text: "Z"
+Index 53 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "Paytm"
+Index 55 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "अच्छा चलता है"
+Index 57 | Profile: Other | Primary: PhonePe | Paytm90d: Yes | Text: "Paytm UPI growthfull"
+Index 58 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "Phone pay "
+Index 59 | Profile: College student | Primary: Paytm | Paytm90d: Yes | Text: "GD
+"
+Index 61 | Profile: College student | Primary: Paytm | Paytm90d: Yes | Text: "Eg"
+Index 63 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "Paytm ko ham no use "
+Index 65 | Profile: College student | Primary: Google Pay | Paytm90d: No | Text: "Temperature per milenge to main jyada use karunga"
+Index 68 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "If it look attractive "
+Index 70 | Profile: College student | Primary: Navi | Paytm90d: Yes | Text: "I am navi app use in currently "
+Index 72 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "Extra charges "
+Index 75 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "200000"
+Index 76 | Profile: College student | Primary: PhonePe | Paytm90d: No | Text: "अगर मेरे दोस्त और परिचित इसका अधिक उपयोग करते।"
+Index 77 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "Navi"
+Index 79 | Profile: College student | Primary: Google Pay | Paytm90d: No | Text: "Ok"
+Index 81 | Profile: College student | Primary: Navi | Paytm90d: No | Text: "All UPI give less Cash back  than Navi"
+Index 83 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "Bad"
+Index 89 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "Thank you"
+Index 91 | Profile: Working professional | Primary: Google Pay | Paytm90d: No | Text: "Fecher"
+Index 93 | Profile: Working professional | Primary: Paytm | Paytm90d: Yes | Text: "पेमेंट जल्दी हो जाता है ।"
+Index 100 | Profile: Self-employed / freelancer | Primary: Google Pay | Paytm90d: Yes | Text: "Very nice "
+Index 101 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "All frichured"
+Index 105 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "Ok"
+Index 106 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "Googal pay"
+Index 107 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "phone game "
+Index 108 | Profile: Working professional | Primary: Google Pay | Paytm90d: Yes | Text: "Phone game "
+Index 109 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "Upi"
+Index 110 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "Only freinds"
+Index 111 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "Yes"
+
+==================== THEME: Rewards / Cashback / Offers (Count: 26) ====================
+Index 2 | Profile: College student | Primary: Paytm | Paytm90d: Yes | Text: "If it offers rewards "
+Index 3 | Profile: College student | Primary: Super Money | Paytm90d: Yes | Text: "More Cashbacks "
+Index 8 | Profile: College student | Primary: Google Pay | Paytm90d: No | Text: "If it offered better cashback and rewards."
+Index 18 | Profile: College student | Primary: Google Pay | Paytm90d: No | Text: "Rewards"
+Index 19 | Profile: College student | Primary: Google Pay | Paytm90d: No | Text: "If it offered the same rewards it used to"
+Index 20 | Profile: College student | Primary: Google Pay | Paytm90d: No | Text: "Better offers and returns 
+When it can become more than just a payment app maybe ."
+Index 29 | Profile: Other | Primary: Google Pay | Paytm90d: No | Text: "Kuchh achchha reward milega to use karuga vaese maine Google par bharosa karke hi gpay use karna start kiya h aur kisi pr bharosa nhi "
+Index 32 | Profile: Other | Primary: PhonePe | Paytm90d: Yes | Text: "Give better rewards"
+Index 33 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "Generally provide better offers "
+Index 35 | Profile: Working professional | Primary: Google Pay | Paytm90d: Yes | Text: "if it had more rewards"
+Index 42 | Profile: Working professional | Primary: Amazon Pay | Paytm90d: No | Text: "Best offers and cashback "
+Index 46 | Profile: College student | Primary: Paytm | Paytm90d: Yes | Text: "Because it gives me a cashback facility "
+Index 49 | Profile: Working professional | Primary: Google Pay | Paytm90d: Yes | Text: "It doesn't give cashback or rewards "
+Index 54 | Profile: Working professional | Primary: Paytm | Paytm90d: Yes | Text: "more rewards and cashback"
+Index 60 | Profile: Self-employed / freelancer | Primary: Amazon Pay | Paytm90d: Yes | Text: "If I get cashbacks"
+Index 64 | Profile: College student | Primary: PhonePe | Paytm90d: No | Text: "Paytm per acche offer milenge to main jyada use karunga"
+Index 71 | Profile: College student | Primary: PhonePe | Paytm90d: No | Text: "Paytm par ache offers milenge toh mai zyada use karunga"
+Index 73 | Profile: College student | Primary: Google Pay | Paytm90d: No | Text: "Paytm per jyada offer milenge to main jyada use karunga"
+Index 85 | Profile: College student | Primary: Paytm | Paytm90d: Yes | Text: "Isme aap likh sakte ho:
+
+ **“Agar Paytm par zyada cashback aur rewards milte.”**"
+Index 86 | Profile: College student | Primary: Paytm | Paytm90d: Yes | Text: "If It roll out More Amount of Cashbacks and also provide Better Offers"
+Index 88 | Profile: Self-employed / freelancer | Primary: PhonePe | Paytm90d: No | Text: "Better i will use first for normal transactions."
+Index 95 | Profile: Other | Primary: Google Pay | Paytm90d: No | Text: "All Fischers"
+Index 96 | Profile: College student | Primary: Super Money | Paytm90d: Yes | Text: "More cashback"
+Index 99 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "If it actually gave cashback "
+Index 102 | Profile: Self-employed / freelancer | Primary: Google Pay | Paytm90d: No | Text: "All furchegers"
+Index 103 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "All furchegers "
+
+==================== THEME: Rewards / Cashback / Offers + Speed / UI / Simplicity / App Performance (Count: 4) ====================
+Index 5 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "Clean and simple UI with more rewards and offers "
+Index 21 | Profile: College student | Primary: Super Money | Paytm90d: No | Text: "Faster payment and cashbacks "
+Index 22 | Profile: Working professional | Primary: Google Pay | Paytm90d: Yes | Text: "If Paytm offered faster payments and better rewards, I would use it more often."
+Index 31 | Profile: Working professional | Primary: Google Pay | Paytm90d: No | Text: "Reward and Faster "
+
+==================== THEME: Rewards / Cashback / Offers + Trust / Reliability / Server Success / Safety (Count: 1) ====================
+Index 51 | Profile: Working professional | Primary: PhonePe | Paytm90d: No | Text: "Yes off course if it become more reliable and easier to use "
+
+==================== THEME: Speed / UI / Simplicity / App Performance (Count: 18) ====================
+Index 7 | Profile: Working professional | Primary: Paytm | Paytm90d: Yes | Text: "Daily payment can manage very easy"
+Index 13 | Profile: Working professional | Primary: Paytm | Paytm90d: Yes | Text: "It's faster and easier."
+Index 16 | Profile: Self-employed / freelancer | Primary: Google Pay | Paytm90d: Yes | Text: "Very easy "
+Index 17 | Profile: College student | Primary: Slice | Paytm90d: Yes | Text: "Clean ui"
+Index 30 | Profile: Self-employed / freelancer | Primary: Google Pay | Paytm90d: Yes | Text: "Better UI and fast response "
+Index 39 | Profile: College student | Primary: Google Pay | Paytm90d: No | Text: "faster payment"
+Index 41 | Profile: College student | Primary: Google Pay | Paytm90d: No | Text: "If it made my daily payments faster"
+Index 48 | Profile: College student | Primary: Google Pay | Paytm90d: Yes | Text: "If its faster "
+Index 52 | Profile: College student | Primary: Paytm | Paytm90d: Yes | Text: "It’s UI is very good"
+Index 56 | Profile: Working professional | Primary: PhonePe | Paytm90d: No | Text: "Make paytm options. Like phonepe, big and easy"
+Index 62 | Profile: Other | Primary: PhonePe | Paytm90d: Yes | Text: " Make fast"
+Index 66 | Profile: Other | Primary: PhonePe | Paytm90d: Yes | Text: "“If Paytm made my daily payments faster and easier, I would use it more.”"
+Index 67 | Profile: Other | Primary: PhonePe | Paytm90d: No | Text: " If Paytm made my daily payments faster and easier, I would use it more.”"
+Index 69 | Profile: College student | Primary: Paytm | Paytm90d: Yes | Text: "If it made my daily payment faster"
+Index 74 | Profile: College student | Primary: Paytm | Paytm90d: Yes | Text: "Speed "
+Index 80 | Profile: College student | Primary: Google Pay | Paytm90d: No | Text: "Better UI and faster app"
+Index 97 | Profile: Working professional | Primary: Google Pay | Paytm90d: No | Text: "If more faster way is available to pay."
+Index 98 | Profile: Working professional | Primary: Google Pay | Paytm90d: Yes | Text: "User interface of Gpay is better "
+
+==================== THEME: Speed / UI / Simplicity / App Performance + Trust / Reliability / Server Success / Safety (Count: 1) ====================
+Index 11 | Profile: Other | Primary: PhonePe | Paytm90d: No | Text: "I would use Paytm more if it made my daily payments faster, easier, and more secure."
+
+==================== THEME: Trust / Reliability / Server Success / Safety (Count: 1) ====================
+Index 87 | Profile: College student | Primary: PhonePe | Paytm90d: Yes | Text: "Yes this payment  is very secure is expensive  "

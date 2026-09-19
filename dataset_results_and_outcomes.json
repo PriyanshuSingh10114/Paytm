@@ -1,0 +1,508 @@
+{
+  "summary": {
+    "total_responses": 111,
+    "unique_respondents": 111,
+    "missing_fields": 0,
+    "open_to_followup_yes_count": 46,
+    "open_to_followup_yes_pct": 41.44,
+    "valid_contacts_provided": 7,
+    "paytm_primary_share_pct": 15.32,
+    "paytm_90d_active_reach_pct": 63.96,
+    "non_paytm_primary_90d_active_count": 54,
+    "non_paytm_primary_90d_active_pct": 57.45,
+    "high_frequency_users_16plus_wk_pct": 41.44
+  },
+  "profile_distribution": [
+    {
+      "profile": "College student",
+      "count": 69,
+      "percentage": 62.16
+    },
+    {
+      "profile": "Working professional",
+      "count": 23,
+      "percentage": 20.72
+    },
+    {
+      "profile": "Other",
+      "count": 10,
+      "percentage": 9.01
+    },
+    {
+      "profile": "Self-employed / freelancer",
+      "count": 9,
+      "percentage": 8.11
+    }
+  ],
+  "primary_app_distribution": [
+    {
+      "app": "Google Pay",
+      "count": 51,
+      "percentage": 45.95
+    },
+    {
+      "app": "PhonePe",
+      "count": 34,
+      "percentage": 30.63
+    },
+    {
+      "app": "Paytm",
+      "count": 17,
+      "percentage": 15.32
+    },
+    {
+      "app": "Super Money",
+      "count": 3,
+      "percentage": 2.7
+    },
+    {
+      "app": "Amazon Pay",
+      "count": 2,
+      "percentage": 1.8
+    },
+    {
+      "app": "Navi",
+      "count": 2,
+      "percentage": 1.8
+    },
+    {
+      "app": "Slice",
+      "count": 1,
+      "percentage": 0.9
+    },
+    {
+      "app": "CRED",
+      "count": 1,
+      "percentage": 0.9
+    }
+  ],
+  "paytm_90d_activity": [
+    {
+      "used_paytm_last_90d": "Yes",
+      "count": 71,
+      "percentage": 63.96
+    },
+    {
+      "used_paytm_last_90d": "No",
+      "count": 40,
+      "percentage": 36.04
+    }
+  ],
+  "weekly_frequency_distribution": [
+    {
+      "weekly_transactions": "1–3",
+      "count": 29,
+      "percentage": 26.13
+    },
+    {
+      "weekly_transactions": "16–30",
+      "count": 24,
+      "percentage": 21.62
+    },
+    {
+      "weekly_transactions": "8–15",
+      "count": 22,
+      "percentage": 19.82
+    },
+    {
+      "weekly_transactions": "30+",
+      "count": 22,
+      "percentage": 19.82
+    },
+    {
+      "weekly_transactions": "4–7",
+      "count": 14,
+      "percentage": 12.61
+    }
+  ],
+  "top_cities": [
+    {
+      "city": "Sitapur",
+      "count": 39,
+      "percentage": 35.14
+    },
+    {
+      "city": "Bhopal",
+      "count": 10,
+      "percentage": 9.01
+    },
+    {
+      "city": "Lucknow",
+      "count": 8,
+      "percentage": 7.21
+    },
+    {
+      "city": "Lakhimpur Kheri",
+      "count": 6,
+      "percentage": 5.41
+    },
+    {
+      "city": "Shahjahanpur",
+      "count": 3,
+      "percentage": 2.7
+    },
+    {
+      "city": "Biswan",
+      "count": 3,
+      "percentage": 2.7
+    },
+    {
+      "city": "Hardoi",
+      "count": 3,
+      "percentage": 2.7
+    },
+    {
+      "city": "Ballia",
+      "count": 3,
+      "percentage": 2.7
+    },
+    {
+      "city": "Uttar Pradesh",
+      "count": 2,
+      "percentage": 1.8
+    },
+    {
+      "city": "Sehore",
+      "count": 2,
+      "percentage": 1.8
+    }
+  ],
+  "app_repertoire_mentions": [
+    {
+      "item": "Google Pay",
+      "count": 64,
+      "percentage_of_respondents": 57.66
+    },
+    {
+      "item": "PhonePe",
+      "count": 52,
+      "percentage_of_respondents": 46.85
+    },
+    {
+      "item": "Paytm",
+      "count": 31,
+      "percentage_of_respondents": 27.93
+    },
+    {
+      "item": "Amazon Pay",
+      "count": 14,
+      "percentage_of_respondents": 12.61
+    },
+    {
+      "item": "BHIM",
+      "count": 13,
+      "percentage_of_respondents": 11.71
+    },
+    {
+      "item": "Super Money",
+      "count": 5,
+      "percentage_of_respondents": 4.5
+    },
+    {
+      "item": "Slice",
+      "count": 2,
+      "percentage_of_respondents": 1.8
+    },
+    {
+      "item": "Navi",
+      "count": 2,
+      "percentage_of_respondents": 1.8
+    }
+  ],
+  "top_payment_occasions": [
+    {
+      "item": "Bills / recharge",
+      "count": 63,
+      "percentage_of_respondents": 56.76
+    },
+    {
+      "item": "Shopping",
+      "count": 63,
+      "percentage_of_respondents": 56.76
+    },
+    {
+      "item": "Food / cafés / restaurants",
+      "count": 61,
+      "percentage_of_respondents": 54.95
+    },
+    {
+      "item": "Groceries",
+      "count": 50,
+      "percentage_of_respondents": 45.05
+    },
+    {
+      "item": "Friends / family",
+      "count": 46,
+      "percentage_of_respondents": 41.44
+    },
+    {
+      "item": "Travel / auto / cab",
+      "count": 42,
+      "percentage_of_respondents": 37.84
+    },
+    {
+      "item": "Online purchases",
+      "count": 38,
+      "percentage_of_respondents": 34.23
+    },
+    {
+      "item": "College / education",
+      "count": 27,
+      "percentage_of_respondents": 24.32
+    },
+    {
+      "item": "Subscriptions",
+      "count": 16,
+      "percentage_of_respondents": 14.41
+    },
+    {
+      "item": "Rent",
+      "count": 15,
+      "percentage_of_respondents": 13.51
+    },
+    {
+      "item": "Daily use item",
+      "count": 1,
+      "percentage_of_respondents": 0.9
+    },
+    {
+      "item": "All of the above",
+      "count": 1,
+      "percentage_of_respondents": 0.9
+    },
+    {
+      "item": "All",
+      "count": 1,
+      "percentage_of_respondents": 0.9
+    }
+  ],
+  "primary_app_selection_reasons": [
+    {
+      "item": "It is faster or easier",
+      "count": 50,
+      "percentage_of_respondents": 45.05
+    },
+    {
+      "item": "It is simply my habit / default",
+      "count": 36,
+      "percentage_of_respondents": 32.43
+    },
+    {
+      "item": "My friends / family use it",
+      "count": 28,
+      "percentage_of_respondents": 25.23
+    },
+    {
+      "item": "I trust it more",
+      "count": 19,
+      "percentage_of_respondents": 17.12
+    },
+    {
+      "item": "Better features / experience",
+      "count": 19,
+      "percentage_of_respondents": 17.12
+    },
+    {
+      "item": "It feels more reliable",
+      "count": 18,
+      "percentage_of_respondents": 16.22
+    },
+    {
+      "item": "Better offers / rewards",
+      "count": 16,
+      "percentage_of_respondents": 14.41
+    },
+    {
+      "item": "Merchants commonly use it",
+      "count": 13,
+      "percentage_of_respondents": 11.71
+    },
+    {
+      "item": "Other",
+      "count": 9,
+      "percentage_of_respondents": 8.11
+    }
+  ],
+  "paytm_current_occasions": [
+    {
+      "item": "Shopping / online purchases",
+      "count": 51,
+      "percentage_of_respondents": 45.95
+    },
+    {
+      "item": "Bills / recharge",
+      "count": 44,
+      "percentage_of_respondents": 39.64
+    },
+    {
+      "item": "Payments to friends / family",
+      "count": 33,
+      "percentage_of_respondents": 29.73
+    },
+    {
+      "item": "Food / restaurants",
+      "count": 33,
+      "percentage_of_respondents": 29.73
+    },
+    {
+      "item": "Travel / transport",
+      "count": 29,
+      "percentage_of_respondents": 26.13
+    },
+    {
+      "item": "When there is an offer / reward",
+      "count": 20,
+      "percentage_of_respondents": 18.02
+    },
+    {
+      "item": "I cannot think of a recent Paytm use",
+      "count": 20,
+      "percentage_of_respondents": 18.02
+    },
+    {
+      "item": "I use Paytm randomly",
+      "count": 19,
+      "percentage_of_respondents": 17.12
+    },
+    {
+      "item": "with no specific occasion",
+      "count": 19,
+      "percentage_of_respondents": 17.12
+    },
+    {
+      "item": "High-value payments",
+      "count": 15,
+      "percentage_of_respondents": 13.51
+    }
+  ],
+  "paytm_barriers_identified": [
+    {
+      "item": "I automatically use another app",
+      "count": 41,
+      "percentage_of_respondents": 36.94
+    },
+    {
+      "item": "Another app feels faster / easier",
+      "count": 27,
+      "percentage_of_respondents": 24.32
+    },
+    {
+      "item": "My friends / family are on another app",
+      "count": 17,
+      "percentage_of_respondents": 15.32
+    },
+    {
+      "item": "I am not familiar with Paytm features",
+      "count": 17,
+      "percentage_of_respondents": 15.32
+    },
+    {
+      "item": "Paytm does not give me a strong reason to switch",
+      "count": 17,
+      "percentage_of_respondents": 15.32
+    },
+    {
+      "item": "Another app has better offers / rewards",
+      "count": 14,
+      "percentage_of_respondents": 12.61
+    },
+    {
+      "item": "I trust another app more",
+      "count": 14,
+      "percentage_of_respondents": 12.61
+    },
+    {
+      "item": "Nothing — I could use Paytm more",
+      "count": 14,
+      "percentage_of_respondents": 12.61
+    },
+    {
+      "item": "Other",
+      "count": 13,
+      "percentage_of_respondents": 11.71
+    },
+    {
+      "item": "Merchants usually use another app",
+      "count": 9,
+      "percentage_of_respondents": 8.11
+    }
+  ],
+  "crosstabs": {
+    "primary_app_vs_paytm_90d": {
+      "Amazon Pay": {
+        "No": 1,
+        "Yes": 1
+      },
+      "CRED": {
+        "No": 1,
+        "Yes": 0
+      },
+      "Google Pay": {
+        "No": 24,
+        "Yes": 27
+      },
+      "Navi": {
+        "No": 1,
+        "Yes": 1
+      },
+      "Paytm": {
+        "No": 0,
+        "Yes": 17
+      },
+      "PhonePe": {
+        "No": 12,
+        "Yes": 22
+      },
+      "Slice": {
+        "No": 0,
+        "Yes": 1
+      },
+      "Super Money": {
+        "No": 1,
+        "Yes": 2
+      }
+    },
+    "profile_vs_primary_app": {
+      "College student": {
+        "Amazon Pay": 0,
+        "CRED": 0,
+        "Google Pay": 30,
+        "Navi": 2,
+        "Paytm": 11,
+        "PhonePe": 22,
+        "Slice": 1,
+        "Super Money": 3
+      },
+      "Other": {
+        "Amazon Pay": 0,
+        "CRED": 0,
+        "Google Pay": 3,
+        "Navi": 0,
+        "Paytm": 0,
+        "PhonePe": 7,
+        "Slice": 0,
+        "Super Money": 0
+      },
+      "Self-employed / freelancer": {
+        "Amazon Pay": 1,
+        "CRED": 0,
+        "Google Pay": 6,
+        "Navi": 0,
+        "Paytm": 1,
+        "PhonePe": 1,
+        "Slice": 0,
+        "Super Money": 0
+      },
+      "Working professional": {
+        "Amazon Pay": 1,
+        "CRED": 1,
+        "Google Pay": 12,
+        "Navi": 0,
+        "Paytm": 5,
+        "PhonePe": 4,
+        "Slice": 0,
+        "Super Money": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,210 @@
+=================================================================
+=== 1. PRIMARY REASON BY PRIMARY APP ===
+=================================================================
+
+--- Primary App: Google Pay (N=51) ---
+  It is faster or easier: 22 (43.1%)
+  It is simply my habit / default: 18 (35.3%)
+  My friends / family use it: 15 (29.4%)
+  I trust it more: 12 (23.5%)
+  It feels more reliable: 9 (17.6%)
+  Merchants commonly use it: 7 (13.7%)
+  Better features / experience: 7 (13.7%)
+  Better offers / rewards: 5 (9.8%)
+  Other: 4 (7.8%)
+
+--- Primary App: PhonePe (N=34) ---
+  It is faster or easier: 15 (44.1%)
+  My friends / family use it: 10 (29.4%)
+  It is simply my habit / default: 7 (20.6%)
+  Better features / experience: 7 (20.6%)
+  It feels more reliable: 4 (11.8%)
+  Other: 4 (11.8%)
+  Merchants commonly use it: 3 (8.8%)
+  Better offers / rewards: 3 (8.8%)
+  I trust it more: 2 (5.9%)
+
+--- Primary App: Paytm (N=17) ---
+  It is simply my habit / default: 9 (52.9%)
+  It is faster or easier: 7 (41.2%)
+  Better offers / rewards: 5 (29.4%)
+  I trust it more: 5 (29.4%)
+  It feels more reliable: 4 (23.5%)
+  Better features / experience: 4 (23.5%)
+  My friends / family use it: 2 (11.8%)
+  Other: 1 (5.9%)
+  Merchants commonly use it: 1 (5.9%)
+
+=================================================================
+=== 2. TOP UPI OCCASIONS BY PRIMARY APP ===
+=================================================================
+
+--- Primary App: Google Pay (N=51) ---
+  Shopping: 32 (62.7%)
+  Food / cafés / restaurants: 29 (56.9%)
+  Bills / recharge: 29 (56.9%)
+  Groceries: 24 (47.1%)
+  Travel / auto / cab: 22 (43.1%)
+  Friends / family: 21 (41.2%)
+  Online purchases: 20 (39.2%)
+  College / education: 13 (25.5%)
+  Subscriptions: 8 (15.7%)
+  Rent: 8 (15.7%)
+  All: 1 (2.0%)
+
+--- Primary App: PhonePe (N=34) ---
+  Bills / recharge: 19 (55.9%)
+  Food / cafés / restaurants: 17 (50.0%)
+  Shopping: 17 (50.0%)
+  Friends / family: 13 (38.2%)
+  Groceries: 10 (29.4%)
+  Travel / auto / cab: 10 (29.4%)
+  College / education: 7 (20.6%)
+  Online purchases: 6 (17.6%)
+  Subscriptions: 4 (11.8%)
+  Rent: 3 (8.8%)
+  Daily use item: 1 (2.9%)
+  All of the above: 1 (2.9%)
+
+--- Primary App: Paytm (N=17) ---
+  Bills / recharge: 11 (64.7%)
+  Shopping: 10 (58.8%)
+  Groceries: 10 (58.8%)
+  Food / cafés / restaurants: 9 (52.9%)
+  Travel / auto / cab: 7 (41.2%)
+  Friends / family: 7 (41.2%)
+  Online purchases: 7 (41.2%)
+  College / education: 6 (35.3%)
+  Subscriptions: 3 (17.6%)
+  Rent: 2 (11.8%)
+
+=================================================================
+=== 3. PAYTM BARRIERS BY PRIMARY APP ===
+=================================================================
+
+--- Primary App: Google Pay (N=51) ---
+  I automatically use another app: 17 (33.3%)
+  Another app feels faster / easier: 15 (29.4%)
+  I trust another app more: 9 (17.6%)
+  I am not familiar with Paytm features: 8 (15.7%)
+  Another app has better offers / rewards: 7 (13.7%)
+  My friends / family are on another app: 7 (13.7%)
+  Nothing — I could use Paytm more: 6 (11.8%)
+  Paytm does not give me a strong reason to switch: 5 (9.8%)
+  Other: 5 (9.8%)
+  Merchants usually use another app: 3 (5.9%)
+
+--- Primary App: PhonePe (N=34) ---
+  I automatically use another app: 13 (38.2%)
+  Another app feels faster / easier: 8 (23.5%)
+  Paytm does not give me a strong reason to switch: 7 (20.6%)
+  Other: 6 (17.6%)
+  I am not familiar with Paytm features: 5 (14.7%)
+  My friends / family are on another app: 5 (14.7%)
+  Merchants usually use another app: 2 (5.9%)
+  Nothing — I could use Paytm more: 2 (5.9%)
+  Another app has better offers / rewards: 1 (2.9%)
+  I trust another app more: 1 (2.9%)
+
+--- Primary App: Paytm (N=17) ---
+  I automatically use another app: 7 (41.2%)
+  My friends / family are on another app: 5 (29.4%)
+  Nothing — I could use Paytm more: 5 (29.4%)
+  Another app feels faster / easier: 3 (17.6%)
+  Merchants usually use another app: 3 (17.6%)
+  Another app has better offers / rewards: 3 (17.6%)
+  I trust another app more: 3 (17.6%)
+  Paytm does not give me a strong reason to switch: 3 (17.6%)
+  I am not familiar with Paytm features: 2 (11.8%)
+  Other: 1 (5.9%)
+
+=================================================================
+=== 4. WHEN USERS USE PAYTM BY PRIMARY APP ===
+=================================================================
+
+--- Primary App: Google Pay (N=51) ---
+  Shopping / online purchases: 22 (43.1%)
+  Bills / recharge: 20 (39.2%)
+  Food / restaurants: 15 (29.4%)
+  Travel / transport: 14 (27.5%)
+  Payments to friends / family: 14 (27.5%)
+  When there is an offer / reward: 10 (19.6%)
+  I use Paytm randomly: 10 (19.6%)
+  with no specific occasion: 10 (19.6%)
+  I cannot think of a recent Paytm use: 10 (19.6%)
+  High-value payments: 5 (9.8%)
+
+--- Primary App: PhonePe (N=34) ---
+  Shopping / online purchases: 16 (47.1%)
+  Bills / recharge: 13 (38.2%)
+  Payments to friends / family: 10 (29.4%)
+  Food / restaurants: 9 (26.5%)
+  I cannot think of a recent Paytm use: 6 (17.6%)
+  I use Paytm randomly: 4 (11.8%)
+  with no specific occasion: 4 (11.8%)
+  Travel / transport: 4 (11.8%)
+  When there is an offer / reward: 4 (11.8%)
+  High-value payments: 3 (8.8%)
+
+--- Primary App: Paytm (N=17) ---
+  Shopping / online purchases: 11 (64.7%)
+  Bills / recharge: 10 (58.8%)
+  Food / restaurants: 8 (47.1%)
+  Travel / transport: 8 (47.1%)
+  Payments to friends / family: 7 (41.2%)
+  High-value payments: 5 (29.4%)
+  When there is an offer / reward: 4 (23.5%)
+  I use Paytm randomly: 4 (23.5%)
+  with no specific occasion: 4 (23.5%)
+  I cannot think of a recent Paytm use: 1 (5.9%)
+
+=================================================================
+=== 5. PAYTM 90-DAY USAGE AMONG NON-PAYTM PRIMARY USERS ===
+=================================================================
+Total Non-Paytm Primary users: 94 (84.7%)
+paytm_90d
+Yes    54
+No     40
+Name: count, dtype: int64
+Paytm 90-day active among Non-Paytm Primary: 54 / 94 (57.4%)
+
+=================================================================
+=== 6. HIGH-FREQUENCY SEGMENT (16-30, 30+ TXNS/WEEK) ===
+=================================================================
+High-frequency users: 46 (41.4%)
+Primary Apps in High Freq:
+primary_app
+Google Pay     19
+Paytm          11
+PhonePe        11
+Super Money     2
+Amazon Pay      1
+Navi            1
+CRED            1
+Name: count, dtype: int64
+
+Paytm 90d active in High Freq:
+paytm_90d
+Yes    28
+No     18
+Name: count, dtype: int64
+
+Top Occasions in High Freq:
+  Bills / recharge: 32 (69.6%)
+  Food / cafés / restaurants: 31 (67.4%)
+  Groceries: 29 (63.0%)
+  Shopping: 27 (58.7%)
+  Friends / family: 25 (54.3%)
+  Online purchases: 23 (50.0%)
+  Travel / auto / cab: 21 (45.7%)
+  College / education: 14 (30.4%)
+
+Barriers in High Freq:
+  I automatically use another app: 19 (41.3%)
+  Another app feels faster / easier: 13 (28.3%)
+  Paytm does not give me a strong reason to switch: 11 (23.9%)
+  My friends / family are on another app: 9 (19.6%)
+  I am not familiar with Paytm features: 9 (19.6%)
+  Another app has better offers / rewards: 7 (15.2%)
+  I trust another app more: 7 (15.2%)
+  Merchants usually use another app: 6 (13.0%)
